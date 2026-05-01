@@ -2,6 +2,8 @@
 
 O UT é uma plataforma EAD, agregador de vídeoaulas públicas do YouTube. A nossa ideia é fornecer um sítio pronto.
 
+- Website disponível Aqui: [unitic.site](https://ead.unitic.site/)
+
 Olha, este repositório não tem licensa MIT. Então cuidado ao querer redistribuir, kkkk: vais se dar mal...
 
 
